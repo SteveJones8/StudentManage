@@ -6,4 +6,5 @@ It's a practice of the StudentManage.(use Jersey, Hibernate, Spring, Angular.js)
 
 I am testing the GIT BRANCH, and this is the branch-----joker~~~
 
-this is the master's branch!   testing the conflict !
+testing the conflict !
+creat a new branck is simple and quick.
